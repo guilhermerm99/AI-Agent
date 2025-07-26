@@ -1,0 +1,11 @@
+[project]
+name = "aula0"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=5.38.2",
+    "openai-agents>=0.0.17",
+    "python-dotenv>=1.1.1",
+]
